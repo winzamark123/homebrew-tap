@@ -1,10 +1,10 @@
 class GitHermes < Formula
   desc "AI-powered git commit message generator"
   homepage "https://github.com/winzamark123/git-hermes"
-  url "https://github.com/winzamark123/git-hermes/releases/download/v0.1.0/git-hermes"
-  sha256 "fce7c3c7e7ad1f141a94c8916fee79e925be8c7d8afefb3de694090722d2d01a"
+  url "https://github.com/winzamark123/git-hermes/releases/download/v0.1.1/git-hermes"
+  sha256 "1c240f04b3d857a09f3dad0f81e916bdcceba11079670b1b36d8230cd68bf9a1"
   license "MIT"
-  version "0.1.0"
+  version "0.1.1"
 
   def install
     bin.install "git-hermes"
